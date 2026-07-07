@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Editors / IDE
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+.ropeproject/
+.abstra/
